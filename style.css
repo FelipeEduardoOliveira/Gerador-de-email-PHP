@@ -1,0 +1,33 @@
+body{
+	margin: 0; 
+	background-color: #82E3D5;
+}
+
+.email{
+	border: 2px solid black;
+	width: 400px;
+	margin-top: 250px;
+	margin-left: 500px;
+	background-color: #DBD6D6;
+}
+
+.email p {
+	text-align: center;
+	font-size: 30px;
+	color: black;
+}
+.Btn{
+	position: absolute;
+	margin-top: -130px;
+	margin-left: 500px; 
+}
+.Btn button{
+	border: 2px solid black;
+	background-color: #DBD6D6;
+	font-size: 20px;
+	border-radius: 30px;
+}
+
+.Btn button:hover{
+	background-color: #7FE794;
+}
